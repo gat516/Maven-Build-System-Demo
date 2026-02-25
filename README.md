@@ -8,7 +8,6 @@
 ![Coverage](https://github.com/gat516/Maven-Build-System-Demo/raw/gh-pages/.badges/jacoco.svg)
 ![Branches](https://github.com/gat516/Maven-Build-System-Demo/raw/gh-pages/.badges/branches.svg)
 
-Hi
 A simple Java project that demonstrates core Maven (build system) concepts and CI/CD with GitHub Actions.
 
 ## Project Structure (Maven Standard Layout)
